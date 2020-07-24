@@ -1,5 +1,5 @@
 # ML-model-deployed-on-web
-A model that predicts the usage of bikes in a bike company as per the weather data.
+A model that predicts the usage of bikes in a bike renting company as per the weather data.
 
 Uses python frameworks:
 #Pandas
